@@ -1,0 +1,2 @@
+Employee| Total
+Oracle | $500
